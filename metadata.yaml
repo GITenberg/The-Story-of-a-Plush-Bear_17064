@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: A short "Make Believe" novel from the author of the Bobbsey Twins books.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17064#The-Story-of-a-Plush-Bear
 gutenberg_issued: '2005-11-14'
 gutenberg_type: Text
 identifiers:
